@@ -40,6 +40,8 @@ Weapons are illegal only if the Mayor has set up the law-board indicating that w
 The only place Police officers are allowed to do random weapon checks is inside the PD.
 You can self supply as a weapons dealer but you cannot drop a weapon that a job spawns with and switch jobs to use it.
 Hobos can only have KOS signs for props they own, they cannot make a section of the map KOS.
+The Mob Boss may ONLY unarrest Mafia Members. While the Rebel Leader can unarrest anyone. They must advert jailbreak first.
+
  
 Role-playing Rules:
 
